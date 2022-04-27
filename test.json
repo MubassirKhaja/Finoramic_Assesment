@@ -1,0 +1,10 @@
+{
+    "Dependencies": [
+
+      "twitterssdgsf==1.17.1",
+      "six==1.10.0",
+      "smart-open==1.5.3",
+      "textblob==0.12.0"
+
+    ]
+  }
